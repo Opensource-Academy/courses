@@ -1,35 +1,39 @@
 # Course overiew
 
 ## C
-[cli](https://github.com/Opensource-Academy/cli)
+[CLI](https://github.com/Opensource-Academy/cli) 
 ## D
-[docker](https://github.com/Opensource-Academy/docker)
-[documentation](https://github.com/Opensource-Academy/documentation)
+[Docker](https://github.com/Opensource-Academy/docker)
+
+[Documentation](https://github.com/Opensource-Academy/documentation)
 ## E
-[elasticsearch](https://github.com/Opensource-Academy/elasticsearch)
+[Elasticsearch](https://github.com/Opensource-Academy/elasticsearch)
 ## G
-[git](https://github.com/Opensource-Academy/git)
-[go](https://github.com/Opensource-Academy/go)
+[Git](https://github.com/Opensource-Academy/git)
+
+[Go](https://github.com/Opensource-Academy/go)
 ## I
-[introduction](https://github.com/Opensource-Academy/introduction)
+[Introduction](https://github.com/Opensource-Academy/introduction)
 ## L
-[linux](https://github.com/Opensource-Academy/linux)
+[Linux](https://github.com/Opensource-Academy/linux)
 ## N
-[networking](https://github.com/Opensource-Academy/networking)
+[Networking](https://github.com/Opensource-Academy/networking)
 ## O
-[open-source](https://github.com/Opensource-Academy/open-source)
+[Open-source](https://github.com/Opensource-Academy/open-source)
 ## P
-[package-managers](https://github.com/Opensource-Academy/package-managers)
-[programming](https://github.com/Opensource-Academy/programming)
-[python](https://github.com/Opensource-Academy/python)
+[Package-managers](https://github.com/Opensource-Academy/package-managers)
+
+[Programming](https://github.com/Opensource-Academy/programming)
+
+[Python](https://github.com/Opensource-Academy/python)
 ## R
-[research](https://github.com/Opensource-Academy/research)
+[Research](https://github.com/Opensource-Academy/research)
 ## T
-[text](https://github.com/Opensource-Academy/text)
+[Text](https://github.com/Opensource-Academy/text)
 ## U
-[unix](https://github.com/Opensource-Academy/unix)
+[Unix](https://github.com/Opensource-Academy/unix)
 ## V
-[virtualisation](https://github.com/Opensource-Academy/virtualisation)
+[Virtualisation](https://github.com/Opensource-Academy/virtualisation)
 
 ```
    Copyright 2018 Opensource Academy
